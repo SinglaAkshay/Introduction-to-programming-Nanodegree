@@ -1,0 +1,37 @@
+h1{
+  text-align: center;
+  color: white;
+  font-family: "Times New Roman";
+}
+h2{
+  color: red;
+}
+ul{
+  margin: 25px;
+  font-size: 15px;
+}
+div{
+  background-color: green ;
+}
+body{
+  background: linear-gradient(white,green);
+}
+.ak1{
+  background-color: lightblue;
+    border: 2px solid black;
+    margin: 10px 0;
+}
+.ak2{
+  background-color: lightpink;
+    border: 2px solid black;
+    margin: 10px 0;
+}
+.ak3{
+  background-color: lightgray;
+    border: 2px solid black;
+    margin: 10px 0;
+}
+.ak{
+  width: 250px;
+  height: 140px;
+}
